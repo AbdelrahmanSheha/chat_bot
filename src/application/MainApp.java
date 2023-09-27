@@ -35,6 +35,3 @@ public class MainApp extends Application {
 
     }
 }
-
-
-//Checking...s
