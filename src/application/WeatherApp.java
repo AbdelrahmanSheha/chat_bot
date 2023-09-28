@@ -7,7 +7,7 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class WeatherApp {
-    private static final String API_KEY = "ed6a250ad1e5621312ab5840d26c1b81";
+    private static final String API_KEY = "YOUR_API_KEY";
     private static final String API_ENDPOINT = "http://api.openweathermap.org/data/2.5/weather";
 
     public static String getWeatherInfo(String cityName) throws IOException {
