@@ -22,4 +22,6 @@ Before using this chatbot application, ensure you have the following prerequisit
 
 - Java
 - JavaFX library 
+- Getting your own API-Key in order to be able to call weather information, through registering for free:
+(https://openweathermap.org/)
 
